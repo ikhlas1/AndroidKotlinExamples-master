@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidKotlinExamples-master.iml" filepath="$PROJECT_DIR$/AndroidKotlinExamples-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appdebug/appdebug.iml" filepath="$PROJECT_DIR$/appdebug/appdebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appservice/appservice.iml" filepath="$PROJECT_DIR$/appservice/appservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/citieslist/citieslist.iml" filepath="$PROJECT_DIR$/citieslist/citieslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemple_style/exemple_style.iml" filepath="$PROJECT_DIR$/exemple_style/exemple_style.iml" />
+    </modules>
+  </component>
+</project>
